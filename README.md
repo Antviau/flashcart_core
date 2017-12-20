@@ -21,7 +21,7 @@ End users cannot use this directly, and should use one of the following applicat
 - R4i-SDHC Dual-Core (r4isdhc.com)
 - R4i-SDHC Gold Pro (r4isdhc.com)
 - R4i-SDHC RTS Lite (r4isdhc.com)
-
+- ACE3DS plus (ace3ds.com) (with this early realese : https://cdn.discordapp.com/attachments/35637890125083/389425509307645952/ntrboot_flasher_nds.nds)
 **Note:** Flashcarts from r4isdhc.com tend to have yearly re-releases; all versions of these carts (2014-2017) should work but not all have been tested. 
 
 ### Planned Carts
